@@ -28,7 +28,7 @@ sudo insmod hideproc.ko verb=1 target_pid=2672
 ```
 
 3. **Proof.**
-you can check if the process is already hided or not
+you can check if the process is already hidden or not
 
 ```sh
 ps aux | grep [process_name]
